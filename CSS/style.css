@@ -190,7 +190,7 @@ body {
 /**Start Landing Section**/
 
 .landing{
-    background-image: url(./image/14.jpg);
+    background-image: url("./image/14.jpg");
     background-size: cover;
     height: calc(100vh - 100px);
     position: relative;
