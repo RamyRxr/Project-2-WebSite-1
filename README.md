@@ -1,3 +1,5 @@
-# Project-3
+# Project-2
 
-See the result of this Code (Hosting link) ===> https://ramyrxr.github.io/Project-3/
+first design of aa website using only HTML $ CSS.
+
+See the result of this Code (Hosting link) ===> https://ramyrxr.github.io/Project-2--WebSite-1-/
